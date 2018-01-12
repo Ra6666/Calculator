@@ -9,7 +9,7 @@ namespace Console_Calculator
     class Program
     {
 
-        static void Main()
+        static void Main()//
         {
             double number_one_double = 0;
             double number_two_double = 0;
